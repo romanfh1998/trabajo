@@ -1,0 +1,147 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 3, 2017, 6:48:01 PM
+    Author     : 00139155
+*/
+.body{
+   
+}
+#cabecera{
+    /*Aplicando tipo, aliniacion y tamaño de letras a la cabecera*/
+    font-family: broadway;
+    font-size: 40px;
+    text-align: center;
+}
+.nosotros-aling{
+    float: left;
+    
+   
+}
+.nosotros-aling li{
+    float:left;
+}
+ul li {
+    
+    list-style-type: none;
+        /*background-image: url("https://2.bp.blogspot.com/-4ARdGtco9aI/VtsffIgATTI/AAAAAAAABPg/dO3cVXZ94D4/s400/flowers-tumblr-photography-quotes%25286%2529.jpg");*/
+    background-image: url("../imagenes/fondo.jpg");
+        display: inline;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    #menu{
+              
+
+        text-align: center;
+        color: 	red;
+    }
+    #cuerpo{
+        text-align: center;
+        font-family: calibri;
+        font-size: 20px;
+         font-weight: bold;
+         margin-top: 70px;
+        padding-left: 60px;
+    }
+    #pie{
+        background: black;
+        text-align: center;
+        margin-top: 300px;
+        padding-left: 60px;
+    }
+    a:hover {
+        color: white;
+        font-size: 28px;
+    }
+    a{
+        text-decoration: none;
+    }
+    form{
+        /*centrando el formulario y poniendo borde*/
+        background-color: white;
+        margin: 0 auto;
+        width: 800px;
+        padding: 1em;
+        border: 2px solid #000 ;
+        border-radius: 1em;
+        
+    }
+    for div{
+        margin-top: 2em;
+        
+    }
+    a:link {
+        color:black
+    }
+    a:visited{
+        color:red
+    }
+    a:active{
+        color: white
+    }
+    label{
+        display: inline-block;
+        width: 100px;
+        text-align: rig0ht;
+        
+    }
+    #jp{
+        text-align: center;
+    }
+    imput,textArea{
+        font:calibri;
+        width: 100px;
+    }
+    imput:focus, textArea:focus{
+        border-color: white;
+    }
+    textarea{
+        vertical-align: top;
+    }
+    #fondo{
+        background:black;
+        
+    }
+    .product{
+        float: left;
+        background: #ffff00;
+        padding: 10px;
+        margin: 10px;
+        margin-left: 100px;
+        border-radius: 4px;
+    }
+    .img-produc{
+        
+        width: 300px;
+        height: 300px;
+    }
+    .panel-izquierdo{
+        float: left;
+        font-size: 18px;
+        color:#ff0000;
+        
+    }
+    .panel-izquierd{
+        background: #81F7D8;
+        border: 1px #000 solid;
+        border-radius: 10px;
+        margin-top: 70px;
+        padding-left: 30px;
+    }
+    .panel-izquierd1{
+        background: #81F7D8;
+        border: 1px #000 solid;
+        border-radius: 10px;
+        margin-top: 70px;
+        padding-left: 30px;
+    }
+    .panel-izquierdo li{
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
